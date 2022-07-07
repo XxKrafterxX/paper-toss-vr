@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crumbled-paper.obj-5389b8dd533930d7948b76730404b81f.mesh"
+
+[deps]
+
+files=[ "res://.import/crumbled-paper.obj-5389b8dd533930d7948b76730404b81f.mesh" ]
+
+source_file="res://prefabs/LowPolyOfficeProps_FBXModels/crumbled-paper-obj/crumbled-paper.obj"
+dest_files=[ "res://.import/crumbled-paper.obj-5389b8dd533930d7948b76730404b81f.mesh", "res://.import/crumbled-paper.obj-5389b8dd533930d7948b76730404b81f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
